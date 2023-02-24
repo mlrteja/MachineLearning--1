@@ -3,9 +3,9 @@ import pandas as pd
 import json
 import urllib
 
-client = pymongo.MongoClient("mongodb+srv://lakshmiraviteja:"+urllib.parse.quote("Memsphd99@") +"@cluster0.tcc0blz.mongodb.net/?retryWrites=true&w=majority")
+client = pymongo.MongoClient("mongodb+srv://mlrteja66:mlraviteja@cluster0.gagaqgb.mongodb.net/?retryWrites=true&w=majority")
 
-DATA_FILE_PATH = (r"C:\Users\shiva\Desktop\Resume_Based_Project_Data_Science\Project-EWB\insurance.csv")
+DATA_FILE_PATH = (r"D:\insurance project\MachineLearning--1\insurance.csv")
 DATABASE_NAME = "INSURANCE"
 COLLECTION_NAME = "INSURANCE_PROJECT"
 
